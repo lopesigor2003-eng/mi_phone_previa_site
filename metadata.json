@@ -1,0 +1,6 @@
+{
+  "name": "Miphone Santa Maria",
+  "description": "Landing page institucional da Miphone Santa Maria e Cachoeira do Sul - Venda e assistência técnica de smartphones com garantia e o melhor custo-benefício.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
